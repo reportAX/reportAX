@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I’m giving this a two-year buffer. If I still feel this miserable by July 25, 2027, I’ll definitely come back and update everything here.
+
+Well, maybe not everything.:)
